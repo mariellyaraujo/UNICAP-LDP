@@ -1,7 +1,18 @@
 # Coisas daoras da faculdade
 
 ## Fazer:
-  - Tudo
+  - 5
+  - 9
+  - 10
+  - 11
+  - 12
 
 ## Feito:
-  - Nada
+  - 1
+  - 2
+  - 3
+  - 4
+  - 6
+  - 7
+  - 8
+    
