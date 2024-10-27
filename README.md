@@ -1,7 +1,6 @@
 # Coisas daoras da faculdade
 
 ## Fazer:
-  - 11
   - 12
 
 ## Feito:
@@ -15,4 +14,5 @@
   - 8
   - 9
   - 10
+  - 11
     
